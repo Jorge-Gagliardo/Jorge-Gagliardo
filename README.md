@@ -1,9 +1,10 @@
-#Jorge Gagliardo👋
+###Jorge Gagliardo👋
 ## Desarrollador full stack | Ingeniero en Mecatrónica
 
 Actualmente me encuentro trabajando como desarrollador web en Nexxit S.A. desempeñando las siguientes funciones:
 
 • Front-End: HTML, CSS, Bootstrap, Backbone.js 
+
 • Manejar y desarrollar chatbots realizados en JavaScript y Node.js, integración y consumo de APIs, 
  manejo de base de datos en firebase, trabajo en equipo mediante git.
 
