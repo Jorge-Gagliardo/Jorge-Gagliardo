@@ -1,5 +1,5 @@
 #Jorge Gagliardo👋
-### Desarrollador full stack | Ingeniero en Mecatrónica
+## Desarrollador full stack | Ingeniero en Mecatrónica
 
 Actualmente me encuentro trabajando como desarrollador web en Nexxit S.A. desempeñando las siguientes funciones:
 
