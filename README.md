@@ -3,10 +3,11 @@
 
 Actualmente me encuentro trabajando como desarrollador web en Nexxit S.A. desempeñando las siguientes funciones:
 
-• Front-End: HTML, CSS, Bootstrap, Backbone.js 
+• Front-End: Mantener el front end y agregar nuevas funcionalidades a la página. (HTML, CSS, Bootstrap, Backbone.js)
 
-• Manejar y desarrollar chatbots realizados en JavaScript y Node.js, integración y consumo de APIs, 
- manejo de base de datos en firebase, trabajo en equipo mediante git.
+• Back-End: Dar mantenimiento y crear nuevas funciones a una api creada para firmas electrónicas (Node.js).
+
+• Chatbots: Manejar y desarrollar chatbots realizados en JavaScript y Node.js, integración y consumo de APIs, manejo de base de datos en firebase, trabajo en equipo mediante git.
 
  Adicionalmente estoy estudiando React.js para mejorar mis habilidades en el front end y node.js para el back end.
 
