@@ -8,6 +8,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<h3><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mi</h3>
+
 Actualmente me encuentro trabajando como desarrollador web en Nexxit S.A. desempeñando las siguientes funciones:
 
 • Front-End: Mantener el front end y agregar nuevas funcionalidades a la página. (HTML, CSS, Bootstrap, Backbone.js)
