@@ -11,6 +11,8 @@ Actualmente me encuentro trabajando como desarrollador web en Nexxit S.A. desemp
 
  Adicionalmente estoy estudiando React.js para mejorar mis habilidades en el front end y node.js para el back end.
 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## Tecnologías:
 
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&labelColor=101010)]()
