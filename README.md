@@ -1,5 +1,14 @@
-### Jorge Gagliardo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-## Desarrollador full stack💻 | Ingeniero en Mecatrónica⚙️
+<h1 align="center">Hola, soy Jorge Gagliardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h3 align="center">Desarrollador full stack💻 | Ingeniero en Mecatrónica⚙️</h3>
+
+<div align="center">
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=1000&width=300&lines=Desarrollador+full+stack;Ingeniero+en+Mecatr%C3%B3nica)](https://git.io/typing-svg)
+</div>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Actualmente me encuentro trabajando como desarrollador web en Nexxit S.A. desempeñando las siguientes funciones:
 
@@ -9,22 +18,22 @@ Actualmente me encuentro trabajando como desarrollador web en Nexxit S.A. desemp
 
 • Chatbots: Manejar y desarrollar chatbots realizados en JavaScript y Node.js, integración y consumo de APIs, manejo de base de datos en firebase, trabajo en equipo mediante git.
 
- Adicionalmente estoy estudiando React.js para mejorar mis habilidades en el front end y node.js para el back end.
+ Adicionalmente estoy estudiando React.js para mejorar mis habilidades en el front end y node.js para el back end. <br><br>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## Tecnologías:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías</b>
 
-[![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&labelColor=101010)]()
-</br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=101010)]()
-</br>
-[![React](https://img.shields.io/badge/React-2271b3?style=for-the-badge&logo=react&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-572364?style=for-the-badge&logo=bootstrap&labelColor=101010)]()
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</br></br>
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</br></br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Mi Linkedin:
 
