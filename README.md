@@ -1,12 +1,10 @@
 <h1 align="center">Hola, soy Jorge Gagliardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Desarrollador full stack💻 | Ingeniero en Mecatrónica⚙️</h3>
+<h3 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+full+stack+💻;Ingeniero+en+Mecatr%C3%B3nica+⚙️;Siempre+aprendiendo+cosas+nuevas&center=true&width=500&height=50&color=00FF00"></a>
+</h3>
 
-<div align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=1000&width=300&lines=Desarrollador+full+stack;Ingeniero+en+Mecatr%C3%B3nica)](https://git.io/typing-svg)
-</div>
-
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
