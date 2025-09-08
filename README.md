@@ -12,13 +12,20 @@
 
 Actualmente me encuentro trabajando como desarrollador web en Nexxit S.A. desempeñando las siguientes funciones:
 
-• Front-End: Mantener el front end y agregar nuevas funcionalidades a la página. (HTML, CSS, Bootstrap, Backbone.js)
-
-• Back-End: Dar mantenimiento y crear nuevas funciones a una api creada para firmas electrónicas (Node.js).
+• Front-End: 
+   1. Mantener el front end y agregar nuevas funcionalidades De las aplicaciones:
+   Textcenter: Un CRM creado por la empresa para que nuestras empresas aliadas gestionen todas las interacciones y datos de sus clientes actuales y potenciales. Incluye manejo de chats, agendamiento de citas,      reportes, etc. 
+   Firmelo: Aplicación de firmas electrónicas para usuarios finales que les permite subir sus firmas electrónicas para poder firmar documentos PDF y adicionalmente enviar a firmar a un contacto con una firma  v    OneShot. Incluye gestión de documentos, gestión de contactos, gestión de flujos para enviar a firmar documentos a un contacto.
+   Ambos proyectos están realizados con las tecnologías (HTML, CSS, Bootstrap, Backbone.js)
+   2. Actualmente me encuentro realizando el front-end de la aplicación de Firmelo PRO agregando funcionalidades para empresas, por ejemplo agregando funcionalidades para que una empresa pueda tener sus            partners dentro de Firmelo PRO o hacer una cadena de firmantes para que puedan firmar varias personas el documento según sea necesario.
+   Firmelo PRO está siendo desarrollado en React.js
+   
+• Back-End: Dar mantenimiento y crear nuevas funciones a A las siguientes apis:
+  1. API para firmas electrónicas: Autenticación de usuarios, guardado de documentos en AWS, validación de firmas, entre otros.
+  2. API para textcenter: Búsqueda y filtrado de chats, control de citas agendadas, mensajes automáticos vía API de meta, entre otros.
 
 • Chatbots: Manejar y desarrollar chatbots realizados en JavaScript y Node.js, integración y consumo de APIs, manejo de base de datos en firebase, trabajo en equipo mediante git.
-
- Adicionalmente estoy estudiando React.js para mejorar mis habilidades en el front end y node.js para el back end. <br><br>
+<br><br>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
