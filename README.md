@@ -21,7 +21,7 @@ Actualmente me encuentro trabajando como desarrollador web en Nexxit S.A. desemp
    Firmelo PRO está siendo desarrollado en React.js
    
 • Back-End: <br>
-  Dar mantenimiento y crear nuevas funciones a A las siguientes apis:
+  Dar mantenimiento y crear nuevas funciones a las siguientes apis:
   1. API para firmas electrónicas: Autenticación de usuarios, guardado de documentos en AWS, validación de firmas, entre otros.
   2. API para textcenter: Búsqueda y filtrado de chats, control de citas agendadas, mensajes automáticos vía API de meta, entre otros.
 
