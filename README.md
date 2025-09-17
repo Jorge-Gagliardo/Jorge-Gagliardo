@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jorge Gagliardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+full+stack+💻;Ingeniero+en+Mecatr%C3%B3nica+⚙️;Siempre+aprendiendo+cosas+nuevas&center=true&width=500&height=50&color=00FF00"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+full+stack+💻;Ingeniero+en+Mecatr%C3%B3nica+⚙️;Solucionador+de+problemas&center=true&width=500&height=50&color=00FF00"></a>
 </h3>
 
 <br>
